@@ -1,0 +1,11 @@
+/home/walison/Área de trabalho/GTI/backend/target/debug/deps/libfutures_task-fbd211464a9e9812.rmeta: /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/lib.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/spawn.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/arc_wake.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/waker.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/waker_ref.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/future_obj.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/noop_waker.rs
+
+/home/walison/Área de trabalho/GTI/backend/target/debug/deps/futures_task-fbd211464a9e9812.d: /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/lib.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/spawn.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/arc_wake.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/waker.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/waker_ref.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/future_obj.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/noop_waker.rs
+
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/lib.rs:
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/spawn.rs:
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/arc_wake.rs:
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/waker.rs:
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/waker_ref.rs:
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/future_obj.rs:
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/noop_waker.rs:

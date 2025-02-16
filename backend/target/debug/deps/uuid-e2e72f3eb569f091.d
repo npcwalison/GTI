@@ -1,0 +1,13 @@
+/home/walison/Área de trabalho/GTI/backend/target/debug/deps/libuuid-e2e72f3eb569f091.rmeta: /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/lib.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/builder.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/error.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/non_nil.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/parser.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/fmt.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/timestamp.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/external.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/macros.rs
+
+/home/walison/Área de trabalho/GTI/backend/target/debug/deps/uuid-e2e72f3eb569f091.d: /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/lib.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/builder.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/error.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/non_nil.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/parser.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/fmt.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/timestamp.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/external.rs /home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/macros.rs
+
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/lib.rs:
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/builder.rs:
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/error.rs:
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/non_nil.rs:
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/parser.rs:
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/fmt.rs:
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/timestamp.rs:
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/external.rs:
+/home/walison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.13.1/src/macros.rs:
